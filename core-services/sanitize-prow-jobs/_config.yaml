@@ -1980,7 +1980,6 @@ buildFarm:
       - stolostron-console-release-5.0-presubmits.yaml
       - stolostron-console-release-5.1-presubmits.yaml
       - openshift-cloud-provider-aws-release-4.14-presubmits.yaml
-      - openshift-openshift-mcp-server-release-0.3-presubmits.yaml
       - openshift-priv-jenkins-openshift-login-plugin-release-4.12-presubmits.yaml
       - openshift-priv-jenkins-openshift-login-plugin-release-4.14-presubmits.yaml
       - openshift-priv-jenkins-openshift-login-plugin-release-4.16-presubmits.yaml
@@ -3067,7 +3066,6 @@ buildFarm:
       - openshift-node-feature-discovery-release-5.0-postsubmits.yaml
       - openshift-service-ca-operator-release-5.2-postsubmits.yaml
       - openshift-kubernetes-sigs-lws-release-4.22-postsubmits.yaml
-      - openshift-openshift-mcp-server-release-5.1-postsubmits.yaml
       - openshift-run-once-duration-override-main-postsubmits.yaml
       - openshift-cluster-dns-operator-release-4.12-postsubmits.yaml
       - openshift-cluster-olm-operator-release-4.14-postsubmits.yaml
@@ -9436,7 +9434,6 @@ buildFarm:
       - openshift-priv-csi-external-resizer-release-4.15-presubmits.yaml
       - openshift-priv-kube-state-metrics-release-4.15-presubmits.yaml
       - openshift-priv-csi-livenessprobe-release-4.14-presubmits.yaml
-      - openshift-openshift-mcp-server-release-5.2-presubmits.yaml
       - redhat-chaos-prow-scripts-main-periodics.yaml
       - openshift-cloud-provider-azure-release-4.15-presubmits.yaml
       - openshift-openshift-mcp-server-main-presubmits.yaml
@@ -10139,7 +10136,6 @@ buildFarm:
       - openshift-cluster-network-operator-release-4.18-periodics.yaml
       - openshift-cluster-network-operator-release-4.17-periodics.yaml
       - openshift-cluster-network-operator-release-4.19-periodics.yaml
-      - openshift-openshift-mcp-server-release-0.5-periodics.yaml
       - openshift-openshift-mcp-server-release-1.0-periodics.yaml
       - quay-quay-operator-master-periodics.yaml
       - openshift-cluster-network-operator-main-periodics.yaml
@@ -11851,7 +11847,6 @@ buildFarm:
       - openshift-priv-kube-state-metrics-release-4.16-presubmits.yaml
       - openshift-priv-kube-state-metrics-release-4.17-presubmits.yaml
       - openshift-priv-csi-livenessprobe-release-4.16-presubmits.yaml
-      - openshift-openshift-mcp-server-release-5.1-presubmits.yaml
       - openshift-kube-compare-release-4.19-presubmits.yaml
       - openshift-kube-compare-release-5.2-presubmits.yaml
       - openshift-priv-prom-label-proxy-release-4.20-presubmits.yaml
@@ -12759,7 +12754,6 @@ buildFarm:
       - openshift-priv-karpenter-operator-release-5.0-presubmits.yaml
       - openshift-priv-cluster-api-provider-aws-release-4.12-presubmits.yaml
       - openshift-priv-cluster-api-provider-aws-release-4.13-presubmits.yaml
-      - openshift-openshift-mcp-server-release-0.5-presubmits.yaml
       - openshift-assisted-image-service-release-ocm-2.11-presubmits.yaml
       - openshift-assisted-image-service-release-ocm-2.15-presubmits.yaml
       - openshift-priv-quay-quay-operator-redhat-3.16-presubmits.yaml
@@ -17377,7 +17371,6 @@ buildFarm:
       - openshift-priv-stolostron-grafana-release-2.15-presubmits.yaml
       - stolostron-clusterlifecycle-state-metrics-backplane-2.17-presubmits.yaml
       - openshift-psap-forge-main-presubmits.yaml
-      - openshift-openshift-mcp-server-release-0.2.0-presubmits.yaml
       - openshift-priv-distributed-tracing-console-plugin-release-coo-ocp-4.12-presubmits.yaml
       - stolostron-kube-rbac-proxy-release-5.0-presubmits.yaml
       - stolostron-kube-rbac-proxy-release-5.1-presubmits.yaml
@@ -23663,7 +23656,6 @@ buildFarm:
       - openshift-priv-egress-router-cni-release-4.15-postsubmits.yaml
       - openshift-priv-egress-router-cni-release-4.18-postsubmits.yaml
       - openshift-priv-egress-router-cni-release-4.21-postsubmits.yaml
-      - openshift-priv-openshift-mcp-server-release-5.1-postsubmits.yaml
       - openshift-priv-stolostron-kube-state-metrics-release-5.1-postsubmits.yaml
       - openshift-priv-aws-node-termination-handler-main-postsubmits.yaml
       - openshift-priv-azure-storage-azcopy-release-4.17-postsubmits.yaml
@@ -24170,7 +24162,6 @@ buildFarm:
       - openshift-cli-manager-operator-release-5.1-postsubmits.yaml
       - openshift-cluster-update-keys-release-5.2-postsubmits.yaml
       - openshift-kubernetes-sigs-lws-release-4.23-postsubmits.yaml
-      - openshift-openshift-mcp-server-release-5.2-postsubmits.yaml
       - openshift-kube-rbac-proxy-release-4.18-postsubmits.yaml
       - openshift-machine-os-images-release-4.19-postsubmits.yaml
       - openshift-prom-label-proxy-release-5.2-postsubmits.yaml
